@@ -1,12 +1,12 @@
 # pack-dip
 A package of digital image processing algorithms in python, created to modularize the algorithms used in the discipline of digital image processing, taken in the second semester of 2021, at UNIVALI.
 
-## Installation
+## Installation 
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install pack_dip
 ```
 
 ## Usage
